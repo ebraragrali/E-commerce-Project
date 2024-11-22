@@ -52,11 +52,13 @@ Choose an option: 4
 Invalid choice. Try again.
 
 
-## Group Members
-- **Group Name**: TeamSoftware
-- **Members**:
-  - **Name**: Ebrar Ağralı, **ID**: 220446030
-  - **Name**: İpek Demirel, **ID**: [Student 2 ID]
-  - **Name**: İlayda Kalender, **ID**: [Student 3 ID] *(if applicable)*
-  - **Name**: Melek Arslan, **ID**: [Student 4 ID] *(if applicable)*
+Group Members
+Group Name: TeamSoftware
+Members:
+Name: Ebrar Ağralı, ID: 220446030
+Name: İpek Demirel, ID: [İpek'in Öğrenci Numarası]
+Name: İlayda Kalender, ID: [İlayda'nın Öğrenci Numarası] (varsa)
+Name: Melek Arslan, ID: [Melek'in Öğrenci Numarası] (varsa)
+
+
 
