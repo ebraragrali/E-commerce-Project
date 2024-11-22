@@ -31,8 +31,16 @@ This project is a basic simulation of an e-commerce website created to practice 
 4. **Choose Payment Method**: Select between Credit Card or PayPal.
 5. **Enter Delivery Information**: Enter your name and address to complete the shipment.
 
-### Example:
+## Group Members
+- **Group Name**: TeamSoftware
+- **Members**:
+  - **Name**: Ebrar Ağralı, **ID**: 220446030
+  - **Name**: İpek Demirel, **ID**: 220446049
+  - **Name**: İlayda Kalender, **ID**: 220446040
+  - **Name**: Melek Arslan, **ID**: 220446018
 
+### Example:
+```plaintext
 welcome to the E-commerce System
 1. Add Laptop to Basket
 2. Add Phone to Basket
@@ -52,12 +60,5 @@ Choose an option: 4
 Invalid choice. Try again.
 
 
-## Group Members
-- **Group Name**: TeamSoftware
-- **Members**:
-  - **Name**: Ebrar Ağralı, **ID**: 220446030
-  - **Name**: İpek Demirel, **ID**: 220446049
-  - **Name**: İlayda Kalender, **ID**: 220446040
-  - **Name**: Melek Arslan, **ID**: 220446018
 
 
