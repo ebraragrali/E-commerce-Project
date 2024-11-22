@@ -32,7 +32,7 @@ This project is a basic simulation of an e-commerce website created to practice 
 5. **Enter Delivery Information**: Enter your name and address to complete the shipment.
 
 ### Example:
-```plaintext
+
 welcome to the E-commerce System
 1. Add Laptop to Basket
 2. Add Phone to Basket
