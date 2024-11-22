@@ -42,6 +42,6 @@ Choose an option: 3
 Customer: Ebrar
 Address: dsfgh
 Delivery Status: Not Delivered
-Shipment delivered to dsfgh
+Shipment delivered to Ankara/Etimesgut Türkkuşu Kampüsü
 
 
