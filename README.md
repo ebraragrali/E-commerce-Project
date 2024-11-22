@@ -33,14 +33,14 @@ This project is a basic simulation of an e-commerce website created to practice 
 
 ### Example:
 ```plaintext
-Welcome to the E-commerce System!
+welcome to the E-commerce System
 1. Add Laptop to Basket
 2. Add Phone to Basket
 3. Checkout
 Choose an option: 1
 Choose an option: 3
 Customer: Ebrar
-Address: dsfgh
+Address: Ankara/Etimesgut Türkkuşu Kampüsü
 Delivery Status: Not Delivered
 Shipment delivered to Ankara/Etimesgut Türkkuşu Kampüsü
 
