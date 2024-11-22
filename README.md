@@ -44,8 +44,6 @@ Address: Ankara/Etimesgut Türkkuşu Kampüsü
 Delivery Status: Not Delivered
 Shipment delivered to Ankara/Etimesgut Türkkuşu Kampüsü
 
-### Invalid Input Example:
-```plaintext
 welcome to the E-commerce System!
 1. Add Laptop to Basket
 2. Add Phone to Basket
