@@ -1,4 +1,4 @@
-# E-commerce Site Simulation Project
+# E-commerce Project
 
 ## Project Overview
 This project is a basic simulation of an e-commerce website created to practice Object-Oriented Programming (OOP) concepts. It demonstrates how to manage products, shopping baskets, payments, and shipment procedures in an online store.
